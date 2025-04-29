@@ -3,7 +3,7 @@ import java.util.concurrent.*;
 
 public class SimuladorBanco {
 	private static final int DURACAO_SIMULACAO_MS = 300_000;
-	private static final int N_ATENDENTES = 2;
+	private static final int N_ATENDENTES = 8;
 
 	public static void main(String[] args) throws InterruptedException {
 	System.out.println("SIMULAÇÃO DO BANCO FIRMEZA INVESTIMENTOS");
